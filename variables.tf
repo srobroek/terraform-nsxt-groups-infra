@@ -8,6 +8,7 @@ variable product_name {
 }
 variable ntp_ip {
   type = list(string)
+}
 variable dns_ip {
   type = list(string)
 }
