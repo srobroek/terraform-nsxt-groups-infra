@@ -2,7 +2,7 @@ variable environment {
   type = string
   default = "prod"
 }
-variable product_name {
+variable product {
   type = string 
   default = "infra"
 }
